@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4D0B6D-3B59-4D57-9A10-7BC83A2C0A12}|WpfMvvmCounterEnterprise.Tests\\WpfMvvmCounterEnterprise.Tests.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.tests\\mainviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4D0B6D-3B59-4D57-9A10-7BC83A2C0A12}|WpfMvvmCounterEnterprise.Tests\\WpfMvvmCounterEnterprise.Tests.csproj|solutionrelative:wpfmvvmcounterenterprise.tests\\mainviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.app\\presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|solutionrelative:wpfmvvmcounterenterprise.app\\presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.app\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|solutionrelative:wpfmvvmcounterenterprise.app\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.app\\presentation\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|solutionrelative:wpfmvvmcounterenterprise.app\\presentation\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.app\\presentation\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|solutionrelative:wpfmvvmcounterenterprise.app\\presentation\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|d:\\repository\\wpf_masterclass\\wpfmvvmcounterenterprise\\wpfmvvmcounterenterprise.app\\presentation\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E8A1C7-8C8B-4E3F-BB89-12E7C38C6D11}|WpfMvvmCounterEnterprise.App\\WpfMvvmCounterEnterprise.App.csproj|solutionrelative:wpfmvvmcounterenterprise.app\\presentation\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModelTests.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.Tests\\MainViewModelTests.cs",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.Tests\\MainViewModelTests.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.Tests\\MainViewModelTests.cs",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.Tests\\MainViewModelTests.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:03:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.App\\App.xaml.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\App.xaml.cs",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:02:39.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T07:02:03.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.App\\Presentation\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:02:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.App\\Presentation\\Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.App\\Presentation\\Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:01:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfMvvmCounterEnterprise.App\\Presentation\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfMvvmCounterEnterprise\\WpfMvvmCounterEnterprise.App\\Presentation\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WpfMvvmCounterEnterprise.App\\Presentation\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0sAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:50:12.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

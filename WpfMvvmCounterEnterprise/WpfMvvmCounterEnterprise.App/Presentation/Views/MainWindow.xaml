@@ -1,0 +1,39 @@
+<Window x:Class="WpfMvvmCounterEnterprise.App.Presentation.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:WpfMvvmCounterEnterprise.App.Presentation.Converters"
+        Title="MVVM + ICommand (Enterprise Style)"
+        Height="280" Width="520"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+    </Window.Resources>
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="12"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="12"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Count:" FontSize="26" Margin="0,0,10,0"/>
+            <TextBlock Text="{Binding Count}" FontSize="26" FontWeight="Bold"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="+1" Width="90" Margin="6" Command="{Binding IncrementCommand}"/>
+            <Button Content="-1" Width="90" Margin="6" Command="{Binding DecrementCommand}"/>
+            <Button Content="Reset" Width="90" Margin="6" Command="{Binding ResetCommand}"/>
+            <Button Content="Long Work (async)" Width="140" Margin="6" Command="{Binding SimulateWorkCommand}"/>
+        </StackPanel>
+
+        <DockPanel Grid.Row="4" LastChildFill="True">
+            <ProgressBar Height="18" Width="160" Margin="0,0,10,0"
+                         IsIndeterminate="True"
+                         Visibility="{Binding IsBusy, Converter={StaticResource BoolToVisibilityConverter}, FallbackValue=Collapsed}"/>
+            <TextBlock VerticalAlignment="Center" Text="{Binding StatusText}" />
+        </DockPanel>
+    </Grid>
+</Window>

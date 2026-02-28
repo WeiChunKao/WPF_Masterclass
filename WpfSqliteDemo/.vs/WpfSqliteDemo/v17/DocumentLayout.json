@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|d:\\repository\\wpf_masterclass\\wpfsqlitedemo\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|d:\\repository\\wpf_masterclass\\wpfsqlitedemo\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|d:\\repository\\wpf_masterclass\\wpfsqlitedemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6102A150-DDAB-DD3A-D32B-D94C346D3AB1}|WpfSqliteDemo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:25:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:15:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Repository\\WPF_Masterclass\\WpfSqliteDemo\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T13:51:46.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
